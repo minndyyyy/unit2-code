@@ -1,0 +1,554 @@
+Date,Hour,Value
+1 Apr,0,12
+1 Apr,2,13
+1 Apr,4,13
+1 Apr,6,13
+1 Apr,8,14
+1 Apr,10,20
+1 Apr,12,24
+1 Apr,14,21
+1 Apr,16,20
+1 Apr,18,14
+1 Apr,20,9
+1 Apr,22,5
+2 Apr,0,7
+2 Apr,2,8
+2 Apr,4,5
+2 Apr,6,2
+2 Apr,8,8
+2 Apr,10,10
+2 Apr,12,10
+2 Apr,14,12
+2 Apr,16,8
+2 Apr,18,3
+2 Apr,20,3
+2 Apr,22,2
+3 Apr,0,0
+3 Apr,2,3
+3 Apr,4,2
+3 Apr,6,2
+3 Apr,8,2
+3 Apr,10,7
+3 Apr,12,8
+3 Apr,14,10
+3 Apr,16,9
+3 Apr,18,8
+3 Apr,20,5
+3 Apr,22,9
+4 Apr,0,12
+4 Apr,2,13
+4 Apr,4,14
+4 Apr,6,17
+4 Apr,8,17
+4 Apr,10,15
+4 Apr,12,14
+4 Apr,14,12
+4 Apr,16,15
+4 Apr,18,13
+4 Apr,20,15
+4 Apr,22,13
+5 Apr,0,14
+5 Apr,2,12
+5 Apr,4,8
+5 Apr,6,10
+5 Apr,8,14
+5 Apr,10,13
+5 Apr,12,15
+5 Apr,14,15
+5 Apr,16,15
+5 Apr,18,17
+5 Apr,20,14
+5 Apr,22,12
+6 Apr,0,14
+6 Apr,2,14
+6 Apr,4,16
+6 Apr,6,15
+6 Apr,8,12
+6 Apr,10,16
+6 Apr,12,16
+6 Apr,14,21
+6 Apr,16,18
+6 Apr,18,14
+6 Apr,20,18
+6 Apr,22,18
+7 Apr,0,21
+7 Apr,2,18
+7 Apr,4,20
+7 Apr,6,16
+7 Apr,8,24
+7 Apr,10,32
+7 Apr,12,33
+7 Apr,14,28
+7 Apr,16,26
+7 Apr,18,23
+7 Apr,20,13
+7 Apr,22,7
+8 Apr,0,3
+8 Apr,2,3
+8 Apr,4,1
+8 Apr,6,1
+8 Apr,8,2
+8 Apr,10,7
+8 Apr,12,6
+8 Apr,14,12
+8 Apr,16,14
+8 Apr,18,10
+8 Apr,20,3
+8 Apr,22,12
+9 Apr,0,7
+9 Apr,2,5
+9 Apr,4,6
+9 Apr,6,3
+9 Apr,8,8
+9 Apr,10,13
+9 Apr,12,14
+9 Apr,14,15
+9 Apr,16,10
+9 Apr,18,7
+9 Apr,20,3
+9 Apr,22,3
+10 Apr,0,2
+10 Apr,2,2
+10 Apr,4,2
+10 Apr,6,1
+10 Apr,8,2
+10 Apr,10,7
+10 Apr,12,8
+10 Apr,14,9
+10 Apr,16,9
+10 Apr,18,8
+10 Apr,20,7
+10 Apr,22,6
+11 Apr,0,9
+11 Apr,2,7
+11 Apr,4,6
+11 Apr,6,10
+11 Apr,8,13
+11 Apr,10,18
+11 Apr,12,18
+11 Apr,14,20
+11 Apr,16,13
+11 Apr,18,12
+11 Apr,20,8
+11 Apr,22,7
+12 Apr,0,7
+12 Apr,2,5
+12 Apr,4,8
+12 Apr,6,7
+12 Apr,8,6
+12 Apr,10,7
+12 Apr,12,13
+12 Apr,14,12
+12 Apr,16,12
+12 Apr,18,12
+12 Apr,20,10
+12 Apr,22,6
+13 Apr,0,6
+13 Apr,2,6
+13 Apr,4,5
+13 Apr,6,3
+13 Apr,8,7
+13 Apr,10,8
+13 Apr,12,13
+13 Apr,14,12
+13 Apr,16,12
+13 Apr,18,8
+13 Apr,20,7
+13 Apr,22,2
+14 Apr,0,2
+14 Apr,2,1
+14 Apr,4,1
+14 Apr,6,3
+14 Apr,8,2
+14 Apr,10,3
+14 Apr,12,6
+14 Apr,14,6
+14 Apr,16,8
+14 Apr,18,7
+14 Apr,20,5
+14 Apr,22,1
+15 Apr,0,2
+15 Apr,2,1
+15 Apr,4,3
+15 Apr,6,1
+15 Apr,8,2
+15 Apr,10,3
+15 Apr,12,2
+15 Apr,14,3
+15 Apr,16,3
+15 Apr,18,10
+15 Apr,20,10
+15 Apr,22,5
+16 Apr,0,5
+16 Apr,2,3
+16 Apr,4,2
+16 Apr,6,5
+16 Apr,8,6
+16 Apr,10,7
+16 Apr,12,7
+16 Apr,14,12
+16 Apr,16,8
+16 Apr,18,9
+16 Apr,20,7
+16 Apr,22,3
+17 Apr,0,5
+17 Apr,2,5
+17 Apr,4,1
+17 Apr,6,2
+17 Apr,8,5
+17 Apr,10,9
+17 Apr,12,10
+17 Apr,14,13
+17 Apr,16,13
+17 Apr,18,10
+17 Apr,20,6
+17 Apr,22,3
+18 Apr,0,1
+18 Apr,2,5
+18 Apr,4,2
+18 Apr,6,3
+18 Apr,8,6
+18 Apr,10,5
+18 Apr,12,5
+18 Apr,14,7
+18 Apr,16,8
+18 Apr,18,6
+18 Apr,20,5
+18 Apr,22,2
+19 Apr,0,2
+19 Apr,2,2
+19 Apr,4,3
+19 Apr,6,6
+19 Apr,8,2
+19 Apr,10,5
+19 Apr,12,9
+19 Apr,14,8
+19 Apr,16,10
+19 Apr,18,9
+19 Apr,20,12
+19 Apr,22,8
+20 Apr,0,10
+20 Apr,2,10
+20 Apr,4,9
+20 Apr,6,9
+20 Apr,8,9
+20 Apr,10,10
+20 Apr,12,15
+20 Apr,14,17
+20 Apr,16,15
+20 Apr,18,12
+20 Apr,20,10
+20 Apr,22,7
+21 Apr,0,6
+21 Apr,2,5
+21 Apr,4,3
+21 Apr,6,5
+21 Apr,8,8
+21 Apr,10,14
+21 Apr,12,18
+21 Apr,14,20
+21 Apr,16,16
+21 Apr,18,16
+21 Apr,20,15
+21 Apr,22,14
+22 Apr,0,8
+22 Apr,2,10
+22 Apr,4,7
+22 Apr,6,10
+22 Apr,8,12
+22 Apr,10,15
+22 Apr,12,17
+22 Apr,14,21
+22 Apr,16,22
+22 Apr,18,18
+22 Apr,20,16
+22 Apr,22,12
+23 Apr,0,8
+23 Apr,2,9
+23 Apr,4,13
+23 Apr,6,15
+23 Apr,8,17
+23 Apr,10,20
+23 Apr,12,20
+23 Apr,14,22
+23 Apr,16,20
+23 Apr,18,14
+23 Apr,20,14
+23 Apr,22,13
+24 Apr,0,12
+24 Apr,2,6
+24 Apr,4,7
+24 Apr,6,9
+24 Apr,8,13
+24 Apr,10,15
+24 Apr,12,15
+24 Apr,14,15
+24 Apr,16,15
+24 Apr,18,15
+24 Apr,20,10
+24 Apr,22,7
+25 Apr,0,10
+25 Apr,2,5
+25 Apr,4,10
+25 Apr,6,10
+25 Apr,8,8
+25 Apr,10,10
+25 Apr,12,9
+25 Apr,14,9
+25 Apr,16,10
+25 Apr,18,9
+25 Apr,20,6
+25 Apr,22,7
+26 Apr,0,6
+26 Apr,2,6
+26 Apr,4,2
+26 Apr,6,5
+26 Apr,8,8
+26 Apr,10,8
+26 Apr,12,8
+26 Apr,14,13
+26 Apr,16,10
+26 Apr,18,12
+26 Apr,20,13
+26 Apr,22,10
+27 Apr,0,7
+27 Apr,2,7
+27 Apr,4,7
+27 Apr,6,6
+27 Apr,8,7
+27 Apr,10,10
+27 Apr,12,12
+27 Apr,14,12
+27 Apr,16,12
+27 Apr,18,10
+27 Apr,20,12
+27 Apr,22,9
+28 Apr,0,9
+28 Apr,2,6
+28 Apr,4,6
+28 Apr,6,6
+28 Apr,8,10
+28 Apr,10,9
+28 Apr,12,8
+28 Apr,14,9
+28 Apr,16,8
+28 Apr,18,7
+28 Apr,20,8
+28 Apr,22,8
+29 Apr,0,6
+29 Apr,2,6
+29 Apr,4,5
+29 Apr,6,5
+29 Apr,8,9
+29 Apr,10,10
+29 Apr,12,10
+29 Apr,14,9
+29 Apr,16,10
+29 Apr,18,10
+29 Apr,20,5
+29 Apr,22,5
+30 Apr,0,3
+30 Apr,2,5
+30 Apr,4,3
+30 Apr,6,1
+30 Apr,8,5
+30 Apr,10,5
+30 Apr,12,2
+30 Apr,14,5
+30 Apr,16,7
+30 Apr,18,5
+30 Apr,20,5
+30 Apr,22,5
+<!-- Code from d3-graph-gallery.com -->
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8">
+
+  <!-- Load d3.js -->
+  <script src="https://d3js.org/d3.v4.js"></script>
+
+  <!-- Function for radial charts -->
+  <script src="d3-scale-radial.js"></script>
+
+  <!-- Create a div where the graph will take place -->
+  <div id="my_dataviz"></div>
+
+  </head>
+
+  <body>
+
+  <script>
+
+    // set the dimensions and margins of the graph
+    var margin = {top: 100, right: 0, bottom: 0, left: 0},
+        width = 1060 - margin.left - margin.right,
+        height = 1060 - margin.top - margin.bottom,
+        innerRadius = 90,
+        outerRadius = Math.min(width, height) / 2;   // the outerRadius goes from the middle of the SVG area to the border
+
+    // append the svg object
+    
+    var svg = d3.select("#my_dataviz")
+      .append("svg")
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+      .append("g")
+        .attr("transform", "translate(" + (width / 2 + margin.left) + "," + (height / 2 + margin.top) + ")");
+
+        
+    d3.csv("dataTest.csv", function(data) {
+
+
+      // Scales
+      var x = d3.scaleBand()
+          .range([0, 2 * Math.PI])    // X axis goes from 0 to 2pi = all around the circle. If I stop at 1Pi, it will be around a half circle
+          .align(0)                  // This does nothing
+          .domain(data.map(function(d) { return d.Date; })); // The domain of the X axis is the list of states.
+
+      var y = d3.scaleBand()
+          .range([innerRadius, outerRadius])   // Domain will be define later.
+          .domain(data.map(function(d) { return d.Hour; })); // Domain of Y is from 0 to the max seen in the data
+          
+      var z = d3.scaleBand()
+          .range([5, 25])
+          .domain(data.map(function(d) { return d.Value; }));
+
+
+
+    // Add Circles
+        svg.append("g")
+        .selectAll("g")
+        .data(data)
+        .enter()
+        .append("circle")  
+          // .attr("cx",   function(d) { return x(d.Date); })
+          // .attr("cy",   function(d) {return y(d.Value); })
+          // .attr("id","circleBasicTooltip")
+          .attr("r", function(d) {return z(d.Value); })
+          .style("fill", "#2196f3")
+          .attr('fill-opacity', 0.3)
+          // .attr("transform", function(d) { return "rotate(" + ((x(d.Date) + x.bandwidth() / 2) * 180 / Math.PI - 90) + ")"; })
+
+          .on("mouseover", function(){return tooltip.tooltipShow(this, tooltipStyleShow) })
+          .on("mousemove", function(){return tooltip.tooltipMove(this, getTooltipData(d)) })
+          .on("mouseout", function(){return tooltip.tooltipHide(this, tooltipStyleHide) })
+
+          // .attr("transform", function(d) { return "rotate(" + ((x(d.Date) + x.bandwidth() / 2) * 180 / Math.PI - 90) + ")" + "translate(" + (y(d.Hour)/2) + ")"; })
+          .attr("transform", function(d) { return "rotate(" + ((x(d.Date) + x.bandwidth()) * 180 / Math.PI - 210) + ")" + "translate(" + (y(d.Hour))  + ")"; })
+
+          
+
+
+ /*
+      // Add the time labels
+      svg.append("g")
+          .selectAll("g")
+          .data(data)
+          .enter()
+          .append("g")
+            .attr("text-anchor", function(d) { return (x(d.Date) + x.bandwidth() / 2 + Math.PI) % (2 * Math.PI) < Math.PI ? "end" : "start"; })
+            .attr("transform", function(d) { return "rotate(" + ((x(d.Date) + x.bandwidth()) * 180 / Math.PI - 210) + ")" + "translate(" + (y(d.Hour)) + ")"; })
+          .append("text")
+            .text(function(d){return(d.Hour)})
+            .attr("transform", function(d) { return (x(d.Date) + x.bandwidth() / 2 + Math.PI) % (2 * Math.PI) < Math.PI ? "rotate(180)" : "rotate(0)"; })
+            .style("font-size", "11px")
+            .attr("alignment-baseline", "middle")
+  */
+
+      // Add the day labels
+      svg.append("g")
+          .selectAll("g")
+          .data(data)
+          .enter()
+          .append("g")
+            .attr("text-anchor", function(d) { return (x(d.Date) + x.bandwidth() / 2 + Math.PI) % (2 * Math.PI) < Math.PI ? "end" : "start"; })
+            .attr("transform", function(d) { return "rotate(" + ((x(d.Date) + x.bandwidth()) * 180 / Math.PI - 210) + ")" + "translate(" + 50 + ")"; })
+          .append("text")
+            .text(function(d){return(d.Date)})
+            .attr("transform", function(d) { return (x(d.Date) + x.bandwidth() / 2 + Math.PI) % (2 * Math.PI) < Math.PI ? "rotate(180)" : "rotate(0)"; })
+            .style("font-size", "11px")
+            .style("font-family","Roboto")
+            .style("fill","#1a78c2")
+            .attr("alignment-baseline", "middle")
+     }
+
+     );
+
+
+    
+    </script>
+  </body>
+
+</html>
+
+(function(global, factory) {
+    typeof exports === "object" && typeof module !== "undefined" ? factory(exports, require("d3-scale")) :
+    typeof define === "function" && define.amd ? define(["exports", "d3-scale"], factory) :
+    (factory(global.d3 = global.d3 || {}, global.d3));
+  }(this, function(exports, d3Scale) {
+    'use strict';
+  
+    function square(x) {
+      return x * x;
+    }
+  
+    function radial() {
+      var linear = d3Scale.scaleLinear();
+  
+      function scale(x) {
+        return Math.sqrt(linear(x));
+      }
+  
+      scale.domain = function(_) {
+        return arguments.length ? (linear.domain(_), scale) : linear.domain();
+      };
+  
+      scale.nice = function(count) {
+        return (linear.nice(count), scale);
+      };
+  
+      scale.range = function(_) {
+        return arguments.length ? (linear.range(_.map(square)), scale) : linear.range().map(Math.sqrt);
+      };
+  
+      scale.ticks = linear.ticks;
+      scale.tickFormat = linear.tickFormat;
+  
+      return scale;
+    }
+    
+
+    function tooltipStyleShow(el) {
+      d3.select(el)
+          .style("stroke", "black")
+          .style("opacity", 1)
+    }
+
+    function tooltipStyleHide(el) {
+
+        d3.select(el)
+            .style("stroke", "none")
+            .style("opacity", 0.7)
+    }
+
+
+    // Function to extract the data we want to show in the tooltip
+    function getTooltipData(d) {
+    // Formatting: http://koaning.s3-website-us-west-2.amazonaws.com/html/d3format.html
+        let formatPercent = d3.format(".0%");
+        let formatComma = d3.format(",.0f");
+        return {
+            tt1 : d["Hour"],
+            tt2: "Wind Speed: " + d3.format(",.2f")(d["Value"]),
+              //  tt3 : "Life Exp: " + d3.format(".2f")(d["Life expectancy at birth"]),
+              //  tt4 : "Population: " + formatComma(d["Population"])
+              // tt4 : "something else here"
+            }
+          }
+
+    exports.scaleRadial = radial;
+  
+    Object.defineProperty(exports, '__esModule', {value: true});
+  }));
+  
