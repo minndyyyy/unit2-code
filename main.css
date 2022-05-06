@@ -1,0 +1,16 @@
+/* Tooltip container */
+
+
+
+.tooltip {
+    text-decoration:none;
+    position:absolute;
+}
+ .tooltip span {
+    display:none;
+}
+ .tooltip:hover span {
+    display:block;
+    position:absolute;
+    overflow:hidden;
+}
