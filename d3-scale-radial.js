@@ -33,7 +33,36 @@
   
       return scale;
     }
-  
+    
+
+    function tooltipStyleShow(el) {
+      d3.select(el)
+          .style("stroke", "black")
+          .style("opacity", 1)
+    }
+
+    function tooltipStyleHide(el) {
+
+        d3.select(el)
+            .style("stroke", "none")
+            .style("opacity", 0.7)
+    }
+
+
+    // Function to extract the data we want to show in the tooltip
+    function getTooltipData(d) {
+    // Formatting: http://koaning.s3-website-us-west-2.amazonaws.com/html/d3format.html
+        let formatPercent = d3.format(".0%");
+        let formatComma = d3.format(",.0f");
+        return {
+            tt1 : d["Hour"],
+            tt2: "Wind Speed: " + d3.format(",.2f")(d["Value"]),
+              //  tt3 : "Life Exp: " + d3.format(".2f")(d["Life expectancy at birth"]),
+              //  tt4 : "Population: " + formatComma(d["Population"])
+              // tt4 : "something else here"
+            }
+          }
+
     exports.scaleRadial = radial;
   
     Object.defineProperty(exports, '__esModule', {value: true});
