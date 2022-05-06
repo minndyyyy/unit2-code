@@ -51,10 +51,11 @@
       var y = d3.scaleBand()
           .range([innerRadius, outerRadius])   // Domain will be define later.
           .domain(data.map(function(d) { return d.Hour; })); // Domain of Y is from 0 to the max seen in the data
-          
+      /*    
       var z = d3.scaleBand()
           .range([5, 25])
           .domain(data.map(function(d) { return d.Value; }));
+      */
 
           
 
@@ -127,7 +128,7 @@
         .enter()
         .append("circle")  
 
-          .attr("r", function(d) {return z(d.Value); })
+          .attr("r", function(d) {return d.Value; })
           .style("fill", "#2196f3")
           .attr('fill-opacity', 0.3)
           
