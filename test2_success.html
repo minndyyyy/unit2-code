@@ -100,6 +100,7 @@
 
 
       // Add the date labels
+      /*
       svg.append("g")
           .selectAll("g")
           .data(data)
@@ -114,7 +115,16 @@
             .style("font-family","Roboto")
             .style("fill","#1a78c2")
             .attr("alignment-baseline", "middle")
+      */
 
+      svg.append("text")
+            .text("2022 April")
+            .attr("font-size", "28px")
+            .style("fill","#1a78c2")
+            .style("font-family","Lato,sans-serif")
+            .attr("alignment-baseline", "middle")
+            .attr("text-anchor","middle")
+            //.attr("text-align","center")
         
 
     // Add Circles
